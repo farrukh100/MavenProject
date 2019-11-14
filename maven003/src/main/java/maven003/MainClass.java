@@ -6,5 +6,6 @@ public class MainClass {
 	public String testname="selenium";
 	public int testvalue2=5;
 	public String testname2="selenium";
+	public int testvalue4=5;
 
 }
