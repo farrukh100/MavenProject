@@ -11,6 +11,8 @@ public class MainClass {
 	public int testvalue5=5;
 	public int testvalue10=10;
 	public int testvalue11=11;
+	public int testvalue13=13;
+	public int testvalue14=14;
 	
 
 
