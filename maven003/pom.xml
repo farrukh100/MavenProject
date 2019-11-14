@@ -3,4 +3,13 @@
   <groupId>Group003</groupId>
   <artifactId>maven003</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  
+  
+  </dependencies>
+  
+  
+  
+  
 </project>
