@@ -3,6 +3,6 @@ package maven003;
 public class MainClass {
 	
 	public int testvalue=5;
-	public string testname=selenium;
+	public String testname="selenium";
 
 }
