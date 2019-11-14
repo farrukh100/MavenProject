@@ -9,6 +9,7 @@ public class MainClass {
 	public int testvalue3=5;
     public int testvalue4=5;
 	public int testvalue5=5;
+	public int testvalue10=10;
 	
 
 
